@@ -149,7 +149,7 @@ export function buildDigitalExperience(): Product {
                     <span className="h-3 w-3 rounded-full bg-amber-500/80 inline-block" />
                     <span className="h-3 w-3 rounded-full bg-emerald-500/80 inline-block" />
                     <span className="ml-2 font-mono text-xs text-slate-400 hidden sm:inline-block">
-                      samarth-workspace
+                      samarth-birajdar-workspace
                     </span>
                   </div>
 

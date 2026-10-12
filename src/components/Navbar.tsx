@@ -77,7 +77,7 @@ export const Navbar: React.FC = () => {
             </div>
             <div className="flex items-center">
               <span className="font-semibold tracking-tight text-base sm:text-lg text-white">
-                SAMARTH<span className="text-violet-400">.</span>
+                SAMARTH BIRAJDAR<span className="text-violet-400">.</span>
               </span>
             </div>
           </a>

@@ -23,7 +23,7 @@ export const Footer: React.FC = () => {
               }}
               className="text-xl font-bold tracking-tight text-white flex items-center gap-1 group"
             >
-              <span>SAMARTH</span>
+              <span>SAMARTH BIRAJDAR</span>
               <span className="text-violet-400 group-hover:text-cyan-400 transition-colors">.</span>
             </a>
             <p className="text-xs text-slate-400 mt-1.5 flex items-center gap-1">

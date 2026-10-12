@@ -30,7 +30,7 @@ export interface CertificationItem {
 
 export const PERSONAL_INFO = {
   name: "Samarth Birajdar",
-  shortName: "SAMARTH.",
+  shortName: "SAMARTH BIRAJDAR.",
   title: "Software Engineer | Frontend Developer | AI Enthusiast",
   headline: "Building Digital Experiences That Matter.",
   bio: "I'm Samarth Birajdar, an aspiring software engineer passionate about building intuitive web applications, solving challenging problems, and creating impactful digital experiences using modern frontend technologies.",
