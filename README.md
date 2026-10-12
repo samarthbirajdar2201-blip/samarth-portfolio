@@ -15,8 +15,8 @@ A production-quality personal portfolio website for **Samarth Birajdar**, inspir
 
 ## Tech Stack
 
-- **Framework**: Next.js 14 (App Router)
-- **UI Library**: React 18 & TypeScript
+- **Framework**: Next.js 16 (App Router)
+- **UI Library**: React 19 & TypeScript
 - **Styling**: Tailwind CSS with custom SaaS tokens
 - **Icons**: Lucide React
 - **Animations**: CSS Compositor Transforms & Micro-interactions
@@ -25,7 +25,7 @@ A production-quality personal portfolio website for **Samarth Birajdar**, inspir
 
 ### Prerequisites
 
-- Node.js 18.0 or higher
+- Node.js 20.9 or higher
 - npm
 
 ### Installation & Development

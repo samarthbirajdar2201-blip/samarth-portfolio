@@ -277,7 +277,7 @@ export function buildDigitalExperience(): Product {
               {/* Floating Pill Badges */}
               <div className="absolute -bottom-4 -left-4 sm:-bottom-5 sm:-left-6 rounded-full border border-white/10 bg-[#0f121d]/90 px-3.5 py-1.5 text-xs text-slate-200 backdrop-blur-md shadow-xl flex items-center gap-2 card-rim animate-float-slow">
                 <Cpu className="h-3.5 w-3.5 text-cyan-400" />
-                <span className="font-medium text-[11px] sm:text-xs">React 18 &bull; Next.js 14 App Router</span>
+                <span className="font-medium text-[11px] sm:text-xs">React 19 &bull; Next.js 16 App Router</span>
               </div>
 
               <div className="absolute -top-3 -right-2 sm:-top-4 sm:-right-4 rounded-full border border-violet-500/30 bg-[#121422]/90 px-3 py-1.5 text-xs text-violet-200 backdrop-blur-md shadow-xl flex items-center gap-1.5 card-rim animate-float-reverse">

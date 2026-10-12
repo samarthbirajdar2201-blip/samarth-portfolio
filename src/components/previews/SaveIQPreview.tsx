@@ -266,7 +266,7 @@ export const SaveIQPreview: React.FC = () => {
           <ShieldCheck className="h-3 w-3 text-emerald-400" />
           100% Private Client-Side Architecture
         </span>
-        <span className="font-mono text-slate-400">Next.js 14 App Router</span>
+        <span className="font-mono text-slate-400">Next.js 16 App Router</span>
       </div>
     </div>
   );

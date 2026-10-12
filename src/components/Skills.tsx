@@ -58,7 +58,7 @@ export const Skills: React.FC = () => {
                   </span>
                 </h3>
                 <p className="text-xs sm:text-sm text-slate-400 mt-0.5">
-                  Deep experience in modern React ecosystem: React 18, Next.js 14 App Router,
+                  Deep experience in modern React ecosystem: React 19, Next.js 16 App Router,
                   TypeScript generics &amp; interfaces, and modern JavaScript.
                 </p>
               </div>

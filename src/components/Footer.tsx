@@ -110,7 +110,7 @@ export const Footer: React.FC = () => {
             &copy; {new Date().getFullYear()} Samarth Birajdar. All rights reserved.
           </div>
           <div className="font-mono text-[11px] text-slate-400">
-            Next.js 14 &bull; React 18 &bull; TypeScript &bull; Tailwind CSS
+            Next.js 16 &bull; React 19 &bull; TypeScript &bull; Tailwind CSS
           </div>
         </div>
       </div>
